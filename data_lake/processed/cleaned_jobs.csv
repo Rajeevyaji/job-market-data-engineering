@@ -1,0 +1,594 @@
+title,salary,employee_location,company_location
+Data Scientist,79833,DE,DE
+Machine Learning Scientist,260000,JP,JP
+Big Data Engineer,109024,GB,GB
+Product Data Analyst,20000,HN,HN
+Machine Learning Engineer,150000,US,US
+Data Analyst,72000,US,US
+Lead Data Scientist,190000,US,US
+Data Scientist,35735,HU,HU
+Business Data Analyst,135000,US,US
+Lead Data Engineer,125000,NZ,NZ
+Data Scientist,51321,FR,FR
+Data Scientist,40481,IN,IN
+Data Scientist,39916,FR,FR
+Lead Data Analyst,87000,US,US
+Data Analyst,85000,US,US
+Data Engineer,41689,JP,JP
+Big Data Engineer,114047,PL,GB
+Lead Data Engineer,56000,PT,US
+Machine Learning Engineer,43331,CN,CN
+Data Engineer,47899,GR,GR
+BI Data Analyst,98000,US,US
+Lead Data Scientist,115000,AE,AE
+Director of Data Science,325000,US,US
+Research Scientist,42000,NL,NL
+Data Engineer,33511,MX,MX
+Business Data Analyst,100000,US,US
+Machine Learning Manager,117104,CA,CA
+Data Engineering Manager,59303,DE,DE
+Big Data Engineer,70000,US,US
+Data Scientist,68428,GR,US
+Research Scientist,450000,US,US
+Data Analyst,46759,FR,FR
+Data Engineer,74130,AT,AT
+Data Science Consultant,103000,US,US
+Machine Learning Engineer,250000,US,US
+Machine Learning Engineer,138000,US,US
+Data Scientist,45760,PH,US
+Data Engineering Manager,79833,ES,ES
+Machine Learning Infrastructure Engineer,50180,PT,PT
+Data Engineer,106000,US,US
+Data Engineer,112872,GB,GB
+ML Engineer,15966,DE,DE
+Data Scientist,76958,GB,GB
+Data Engineer,188000,US,US
+Data Scientist,105000,US,US
+Data Engineer,70139,FR,FR
+Data Analyst,91000,US,US
+AI Scientist,45896,DK,DK
+Data Engineer,54742,PK,DE
+Computer Vision Engineer,60000,RU,US
+Principal Data Scientist,148261,DE,DE
+Data Scientist,38776,ES,ES
+Data Scientist,118000,US,US
+Data Scientist,120000,US,US
+Data Scientist,138350,US,US
+Data Engineer,110000,US,US
+Data Engineer,130800,ES,US
+Data Scientist,21669,IT,IT
+Data Scientist,412000,US,US
+Machine Learning Engineer,45618,HR,HR
+Data Scientist,62726,DE,DE
+Data Scientist,49268,DE,DE
+Data Science Manager,190200,US,US
+Data Scientist,105000,US,US
+Data Scientist,91237,AT,AT
+Data Scientist,62726,FR,LU
+Data Scientist,42197,FR,FR
+Research Scientist,82528,GB,GB
+BI Data Analyst,150000,IN,US
+Head of Data,235000,US,US
+Data Scientist,53192,FR,FR
+BI Data Analyst,100000,US,US
+ML Engineer,270000,US,US
+Data Analyst,80000,US,US
+Data Analytics Engineer,79197,DE,DE
+Data Engineer,140000,US,US
+Applied Data Scientist,54238,GB,CA
+Machine Learning Engineer,47282,ES,ES
+Director of Data Science,153667,IT,PL
+Data Engineer,28476,PL,PL
+Data Analyst,59102,FR,FR
+Data Analytics Engineer,110000,US,US
+Lead Data Analyst,170000,US,US
+Data Analyst,80000,BG,US
+Marketing Data Analyst,88654,GR,DK
+Data Science Consultant,76833,DE,DE
+Lead Data Analyst,19609,IN,IN
+Lead Data Engineer,276000,US,US
+Data Scientist,29751,IN,IN
+Cloud Data Engineer,89294,SG,SG
+AI Scientist,12000,BR,US
+Financial Data Analyst,450000,US,US
+Computer Vision Software Engineer,70000,US,US
+Computer Vision Software Engineer,95746,DE,US
+Data Analyst,75000,US,US
+Data Engineer,150000,US,US
+BI Data Analyst,36259,HU,US
+Data Analyst,62000,US,US
+Data Scientist,73000,US,US
+Data Analyst,51519,GB,GB
+Research Scientist,187442,CA,CA
+Data Engineer,115000,US,US
+Data Engineer,150000,US,US
+Data Engineer,30428,IN,IN
+Machine Learning Engineer,94564,DE,DE
+Director of Data Engineering,113476,GB,GB
+Lead Data Engineer,103160,GB,GB
+AI Scientist,12000,PK,US
+Data Engineer,45391,NL,NL
+Machine Learning Scientist,225000,US,US
+Data Scientist,50000,NG,NG
+Data Science Engineer,40189,GR,GR
+Data Analyst,90000,US,US
+Data Engineer,200000,US,US
+Big Data Engineer,60000,ES,RO
+Principal Data Engineer,200000,US,US
+Data Analyst,50000,US,US
+Applied Data Scientist,110037,GB,GB
+Data Analyst,10354,ES,ES
+Principal Data Scientist,151000,US,US
+Machine Learning Scientist,120000,US,US
+Machine Learning Engineer,20000,IN,IN
+Lead Data Scientist,40570,IN,IN
+Machine Learning Developer,100000,IQ,IQ
+Data Scientist,49646,FR,FR
+Applied Machine Learning Scientist,38400,VN,US
+Computer Vision Engineer,24000,BR,BR
+Data Scientist,100000,US,US
+Data Analyst,90000,US,US
+ML Engineer,63711,JP,JP
+ML Engineer,77364,JP,JP
+Principal Data Scientist,220000,US,US
+Data Scientist,80000,US,US
+Data Analyst,135000,US,US
+Data Science Manager,240000,US,US
+Data Engineering Manager,150000,US,US
+Data Scientist,82500,US,US
+Data Engineer,100000,US,US
+Machine Learning Engineer,82744,BE,BE
+Research Scientist,62649,FR,FR
+Data Engineer,90000,US,US
+Data Engineering Manager,153000,US,US
+Cloud Data Engineer,160000,BR,US
+Director of Data Science,168000,JP,JP
+Data Scientist,150000,US,US
+Data Scientist,75774,CA,CA
+Data Scientist,13400,UA,UA
+Data Science Manager,144000,US,US
+Data Science Engineer,127221,CA,CA
+Data Scientist,119059,SG,IL
+Applied Machine Learning Scientist,423000,US,US
+Data Analytics Manager,120000,US,US
+Machine Learning Engineer,125000,US,US
+Head of Data,230000,RU,RU
+Head of Data Science,85000,RU,RU
+Data Engineer,28369,MT,MT
+Data Science Consultant,63831,DE,DE
+Director of Data Science,130026,DE,DE
+Data Specialist,165000,US,US
+Data Engineer,80000,US,US
+Director of Data Science,250000,US,US
+BI Data Analyst,55000,US,US
+Data Architect,150000,US,US
+Data Architect,170000,US,US
+Data Engineer,82528,GB,GB
+Data Analyst,60000,US,US
+Principal Data Scientist,235000,US,US
+Research Scientist,60757,PT,PT
+Data Engineering Manager,174000,US,US
+Data Scientist,40038,CL,CL
+Machine Learning Engineer,81000,US,US
+Big Data Engineer,22611,IN,IN
+Data Scientist,90734,DE,DE
+Data Engineer,26005,RO,US
+Finance Data Analyst,61896,GB,GB
+Machine Learning Scientist,12000,PK,PK
+Data Analytics Engineer,50000,VN,GB
+Data Science Consultant,69741,FR,ES
+Data Engineer,76833,RO,GB
+Machine Learning Engineer,74000,JP,JP
+Data Science Manager,152000,US,FR
+Machine Learning Engineer,21844,CO,CO
+Big Data Engineer,18000,MD,MD
+Data Science Manager,174000,US,US
+Research Scientist,96113,CA,CA
+Data Scientist,147000,US,US
+Machine Learning Engineer,24342,IN,IN
+Data Science Manager,54094,IN,US
+Data Science Consultant,90000,US,US
+Data Scientist,61467,DE,AT
+Machine Learning Infrastructure Engineer,195000,US,US
+Data Scientist,37825,ES,ES
+Research Scientist,50000,FR,US
+Data Scientist,160000,US,US
+Data Scientist,12901,BR,BR
+Machine Learning Engineer,200000,US,US
+Data Engineer,165000,US,US
+Data Engineer,20000,IT,US
+Data Analytics Manager,120000,US,US
+Machine Learning Engineer,24823,SI,SI
+Research Scientist,56738,FR,FR
+Data Engineer,66022,HK,GB
+Machine Learning Engineer,24823,DE,DE
+Principal Data Engineer,185000,US,US
+Computer Vision Engineer,28609,DK,DK
+Data Scientist,90734,DE,DE
+Machine Learning Engineer,88654,BE,BE
+Data Analytics Manager,140000,US,US
+Machine Learning Engineer,46597,PL,PL
+Data Scientist,116914,GB,GB
+Data Scientist,33808,IN,IN
+Data Scientist,56256,GB,GB
+Machine Learning Scientist,225000,US,CA
+Principal Data Scientist,416000,US,US
+Data Scientist,87738,CA,CA
+Data Scientist,88654,DE,DE
+Data Scientist,135000,US,US
+Data Analyst,71786,CA,CA
+Big Data Engineer,16228,IN,IN
+ML Engineer,256000,US,US
+Director of Data Engineering,200000,US,US
+Data Analyst,200000,US,US
+Data Architect,180000,US,US
+Head of Data Science,110000,US,US
+Research Scientist,63810,CA,CA
+Data Scientist,46809,ES,ES
+Data Engineer,21637,IN,IN
+Data Scientist,103691,CA,CA
+Data Analyst,80000,US,US
+Data Engineer,110000,US,US
+Data Scientist,165000,US,US
+AI Scientist,18053,IN,AS
+Data Engineer,72212,GB,GB
+Data Scientist,36643,FR,FR
+Data Engineer,12103,TR,TR
+Data Engineer,96282,GB,GB
+Principal Data Analyst,170000,US,US
+Data Scientist,115000,US,US
+Data Scientist,90000,US,US
+Principal Data Engineer,600000,US,US
+Data Scientist,28399,IN,IN
+Data Analyst,93000,US,US
+Big Data Architect,99703,CA,CA
+Data Engineer,200000,US,US
+Principal Data Scientist,173762,DE,DE
+Machine Learning Engineer,185000,US,US
+Director of Data Science,141846,DE,DE
+Data Scientist,130000,US,US
+Data Analyst,63831,DE,DE
+Data Scientist,16904,IN,IN
+Machine Learning Engineer,66265,IN,IN
+Data Scientist,25532,RS,DE
+Lead Data Engineer,160000,PR,US
+Data Engineer,93150,US,US
+Data Engineer,111775,US,US
+Data Engineer,28016,TR,TR
+Data Engineer,65013,DE,DE
+Data Engineer,72500,US,US
+Computer Vision Engineer,18907,BR,BR
+Data Science Consultant,76833,DE,DE
+Machine Learning Engineer,85000,NL,DE
+Data Scientist,77684,FR,FR
+Data Scientist,100000,US,US
+Data Scientist,58000,US,US
+AI Scientist,55000,ES,ES
+Data Scientist,20171,TR,TR
+Business Data Analyst,59102,LU,LU
+Data Engineer,112000,US,US
+Research Scientist,100000,JE,CN
+Data Engineer,69741,NL,NL
+Staff Data Scientist,105000,US,US
+Research Scientist,69999,CZ,CZ
+Data Science Manager,94665,IN,IN
+Head of Data,102839,SI,SI
+Data Scientist,109000,US,US
+Machine Learning Engineer,51064,IT,IT
+Data Engineer,135000,US,US
+Data Analyst,155000,US,US
+Data Analyst,120600,US,US
+Data Scientist,130000,US,US
+Data Scientist,90000,US,US
+Data Engineer,170000,US,US
+Data Engineer,150000,US,US
+Data Analyst,102100,US,US
+Data Analyst,84900,US,US
+Data Scientist,136620,US,US
+Data Scientist,99360,US,US
+Data Scientist,117789,GB,GB
+Data Scientist,104702,GB,GB
+Data Scientist,146000,US,US
+Data Scientist,123000,US,US
+Data Engineer,52351,GB,GB
+Data Analyst,99000,US,US
+Data Analyst,116000,US,US
+Data Analyst,106260,US,US
+Data Analyst,126500,US,US
+Data Engineer,242000,US,US
+Data Engineer,200000,US,US
+Data Scientist,65438,GB,GB
+Data Scientist,39263,GB,GB
+Data Engineer,78526,GB,GB
+Data Engineer,52351,GB,GB
+Data Scientist,165220,US,US
+Data Engineer,45807,GB,GB
+Data Scientist,120160,US,US
+Data Analyst,90320,US,US
+Data Engineer,181940,US,US
+Data Engineer,132320,US,US
+Data Engineer,220110,US,US
+Data Engineer,160080,US,US
+Data Scientist,180000,US,US
+Data Scientist,120000,US,US
+Data Analyst,124190,US,US
+Data Analyst,130000,US,US
+Data Analyst,110000,US,US
+Data Analyst,170000,US,US
+Data Analyst,115500,US,US
+Data Analyst,112900,US,US
+Data Analyst,90320,US,US
+Data Analyst,112900,US,US
+Data Analyst,90320,US,US
+Data Engineer,165400,US,US
+Data Engineer,132320,US,US
+Data Analyst,167000,US,US
+Data Engineer,243900,US,US
+Data Analyst,136600,US,US
+Data Analyst,109280,US,US
+Data Engineer,128875,US,US
+Data Engineer,93700,US,US
+Head of Data Science,224000,US,US
+Head of Data Science,167875,US,US
+Analytics Engineer,175000,US,US
+Data Engineer,156600,US,US
+Data Engineer,108800,US,US
+Data Scientist,95550,US,US
+Data Engineer,113000,US,US
+Data Analyst,135000,US,US
+Data Science Manager,161342,US,US
+Data Science Manager,137141,US,US
+Data Scientist,167000,US,US
+Data Scientist,123000,US,US
+Data Engineer,78526,GB,GB
+Data Engineer,65438,GB,GB
+Data Scientist,150000,US,US
+Data Scientist,211500,US,US
+Data Architect,192400,CA,CA
+Data Architect,90700,CA,CA
+Data Analyst,130000,CA,CA
+Data Analyst,61300,CA,CA
+Data Analyst,130000,CA,CA
+Data Analyst,61300,CA,CA
+Data Engineer,160000,US,US
+Data Scientist,138600,US,US
+Data Engineer,136000,US,US
+Data Analyst,58000,US,US
+Analytics Engineer,135000,US,US
+Data Scientist,170000,US,US
+Data Scientist,123000,US,US
+Machine Learning Engineer,189650,US,US
+Machine Learning Engineer,164996,US,US
+ETL Developer,54957,GR,GR
+ETL Developer,54957,GR,GR
+Lead Data Engineer,118187,CA,CA
+Data Analyst,132000,US,US
+Data Engineer,165400,US,US
+Data Architect,208775,US,US
+Data Architect,147800,US,US
+Data Engineer,136994,US,US
+Data Engineer,101570,US,US
+Data Analyst,128875,US,US
+Data Analyst,93700,US,US
+Head of Machine Learning,79039,IN,IN
+Data Engineer,132320,US,US
+Machine Learning Engineer,37300,GB,GB
+Data Analyst,164000,US,US
+Data Engineer,155000,US,US
+Machine Learning Engineer,124333,GB,GB
+Machine Learning Engineer,98158,GB,GB
+AI Scientist,120000,US,US
+Data Analyst,112900,US,US
+Data Analyst,90320,US,US
+Data Analytics Manager,145000,US,US
+Data Analytics Manager,105400,US,US
+Machine Learning Engineer,87932,FR,DE
+Data Engineer,117789,GB,GB
+Data Scientist,215300,US,US
+Data Scientist,158200,US,US
+Data Engineer,209100,US,US
+Data Engineer,154600,US,US
+Data Analyst,115934,US,US
+Data Analyst,81666,US,US
+Data Engineer,175000,US,US
+Data Engineer,98158,GB,GB
+Data Analyst,58000,US,US
+Data Engineer,183600,US,US
+Data Analyst,52351,GB,GB
+Data Scientist,180000,US,US
+Data Scientist,71982,GB,GB
+Data Scientist,45807,GB,GB
+Data Engineer,65949,GR,GR
+Data Engineer,49461,GR,GR
+Data Engineer,78526,GB,GB
+Data Engineer,58894,GB,GB
+Data Scientist,260000,US,US
+Data Science Engineer,60000,AR,MX
+Data Engineer,63900,US,US
+Machine Learning Scientist,160000,US,US
+Machine Learning Scientist,112300,US,US
+Data Science Manager,241000,US,US
+Data Science Manager,159000,US,US
+Data Scientist,180000,US,US
+Data Scientist,80000,US,US
+Data Engineer,82900,US,US
+Data Engineer,100800,US,US
+Data Engineer,49461,ES,ES
+Data Scientist,140400,US,US
+Data Analyst,39263,GB,GB
+Data Analyst,43966,ES,ES
+Data Analyst,32974,ES,ES
+Data Engineer,87932,ES,ES
+Data Engineer,76940,ES,ES
+Data Engineer,104702,GB,GB
+Data Engineer,91614,GB,GB
+Data Engineer,65949,ES,ES
+Data Engineer,87932,GR,GR
+Machine Learning Engineer,189650,US,US
+Machine Learning Engineer,164996,US,US
+Data Analyst,43966,GR,GR
+Data Analyst,32974,GR,GR
+Data Engineer,98158,GB,GB
+Data Engineer,78526,GB,GB
+Data Scientist,215300,US,US
+Data Engineer,76940,GR,GR
+Data Engineer,209100,US,US
+Data Engineer,154600,US,US
+Data Engineer,180000,US,US
+ML Engineer,21983,PT,PT
+Data Engineer,80000,US,US
+Machine Learning Developer,78791,CA,CA
+Director of Data Science,196979,CA,CA
+Machine Learning Engineer,120000,US,US
+Computer Vision Engineer,125000,US,US
+NLP Engineer,37236,US,US
+Data Engineer,105000,US,US
+Lead Machine Learning Engineer,87932,DE,DE
+Business Data Analyst,18442,IN,IN
+Data Scientist,31615,IN,IN
+Machine Learning Infrastructure Engineer,58255,PT,PT
+Financial Data Analyst,100000,US,US
+Data Engineer,54957,DE,DE
+Data Scientist,18442,IN,IN
+Principal Data Scientist,162674,DE,DE
+Data Engineer,120000,US,US
+Research Scientist,144000,US,US
+Data Scientist,104890,US,US
+Data Engineer,100000,US,US
+Data Scientist,140000,US,US
+Data Analyst,135000,US,US
+Data Analyst,50000,US,US
+Data Scientist,220000,US,US
+Data Scientist,140000,US,US
+Data Scientist,183228,GB,GB
+Data Scientist,91614,GB,GB
+Data Scientist,185100,US,US
+Machine Learning Engineer,220000,US,US
+Data Scientist,200000,US,US
+Data Scientist,120000,US,US
+Machine Learning Engineer,120000,AE,AE
+Machine Learning Engineer,65000,AE,AE
+Data Engineer,324000,US,US
+Data Engineer,216000,US,US
+Data Engineer,210000,US,US
+Machine Learning Engineer,120000,US,US
+Data Scientist,230000,US,US
+Data Scientist,100000,DZ,DZ
+Data Scientist,100000,CA,US
+Applied Machine Learning Scientist,31875,TN,CZ
+Head of Data,200000,MY,US
+Principal Data Analyst,75000,CA,CA
+Data Scientist,35590,PL,PL
+Machine Learning Developer,78791,CA,CA
+Data Scientist,100000,BR,US
+Machine Learning Scientist,153000,US,US
+Data Engineer,58035,PK,DE
+Data Scientist,165000,US,US
+Research Scientist,93427,FR,FR
+Data Scientist,52396,CA,CA
+Machine Learning Engineer,62651,NL,NL
+Head of Data,32974,EE,EE
+Data Scientist,40000,JP,MY
+Machine Learning Engineer,87425,AU,AU
+Data Engineer,115000,US,US
+Data Scientist,86703,AU,AU
+Applied Machine Learning Scientist,75000,BO,US
+Research Scientist,64849,AT,AT
+Research Scientist,120000,US,US
+Applied Data Scientist,157000,US,US
+Computer Vision Software Engineer,150000,AU,AU
+Business Data Analyst,70912,CA,CA
+Data Engineer,65000,US,US
+Machine Learning Engineer,71444,IE,IE
+Data Analytics Engineer,20000,PK,PK
+Data Scientist,48000,RU,US
+Data Science Manager,152500,US,US
+Data Engineer,68147,FR,FR
+Data Scientist,122346,CH,CH
+Applied Data Scientist,380000,US,US
+Data Scientist,69336,CA,CA
+Data Analyst,20000,GR,GR
+Data Analytics Lead,405000,US,US
+Data Scientist,135000,US,US
+Applied Data Scientist,177000,US,US
+Data Scientist,78000,US,US
+Data Analyst,135000,US,US
+Data Analyst,100000,US,US
+Data Analyst,90320,US,US
+Data Analyst,85000,CA,CA
+Data Analyst,75000,CA,CA
+Machine Learning Engineer,214000,US,US
+Machine Learning Engineer,192600,US,US
+Data Architect,266400,US,US
+Data Architect,213120,US,US
+Data Analyst,112900,US,US
+Data Engineer,155000,US,US
+Data Scientist,141300,US,US
+Data Scientist,102100,US,US
+Data Analyst,115934,US,US
+Data Analyst,81666,US,US
+Data Engineer,206699,US,US
+Data Engineer,99100,US,US
+Data Engineer,130000,US,US
+Data Engineer,115000,US,US
+Data Engineer,110500,US,US
+Data Engineer,130000,US,US
+Data Analyst,99050,US,US
+Data Engineer,160000,US,US
+Data Scientist,205300,US,US
+Data Scientist,140400,US,US
+Data Scientist,176000,US,US
+Data Scientist,144000,US,US
+Data Engineer,200100,US,US
+Data Engineer,160000,US,US
+Data Engineer,145000,US,US
+Data Engineer,70500,US,US
+Data Scientist,205300,US,US
+Data Scientist,140400,US,US
+Analytics Engineer,205300,US,US
+Analytics Engineer,184700,US,US
+Data Engineer,175100,US,US
+Data Engineer,140250,US,US
+Data Analyst,116150,US,US
+Data Engineer,54000,US,US
+Data Analyst,170000,US,US
+Data Analyst,65438,GB,GB
+Data Analyst,80000,US,US
+Data Scientist,140000,US,US
+Data Scientist,210000,US,US
+Data Scientist,140000,US,US
+Data Analyst,100000,US,US
+Data Analyst,69000,US,US
+Data Scientist,210000,US,US
+Data Scientist,140000,US,US
+Data Scientist,210000,US,US
+Data Analyst,150075,US,US
+Data Engineer,100000,US,US
+Data Engineer,25000,US,US
+Data Analyst,126500,US,US
+Data Analyst,106260,US,US
+Data Engineer,220110,US,US
+Data Engineer,160080,US,US
+Data Analyst,105000,US,US
+Data Analyst,110925,US,US
+Data Analyst,45807,GB,GB
+Data Scientist,140000,US,US
+Data Analyst,99000,US,US
+Data Analyst,60000,US,US
+Data Architect,192564,US,US
+Data Architect,144854,US,US
+Data Scientist,230000,US,US
+Data Scientist,150000,US,US
+Data Analytics Manager,150260,US,US
+Data Analytics Manager,109280,US,US
+Data Scientist,210000,US,US
+Data Analyst,170000,US,US
+Data Scientist,160000,US,US
+Data Scientist,130000,US,US
+Data Analyst,67000,CA,CA
+Data Analyst,52000,CA,CA
+Data Engineer,154000,US,US
+Data Engineer,126000,US,US
+Data Analyst,129000,US,US
+Data Analyst,150000,US,US
+AI Scientist,200000,IN,US
