@@ -27,7 +27,7 @@ df["salary_max"] = df["salary_min"] + 20000
 
 # PostgreSQL connection
 engine = create_engine(
-    "postgresql://postgres:password@localhost:5432/jobs_db"
+    "postgresql://airflow:airflow@airflow_postgres:5432/airflow"
 )
 
 # Load into PostgreSQL

@@ -10,7 +10,7 @@ services:
 
     environment:
       POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: password
+      POSTGRES_PASSWORD: airflow
       POSTGRES_DB: jobs_db
 
     ports:

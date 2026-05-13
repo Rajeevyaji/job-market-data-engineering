@@ -1,0 +1,693 @@
+[2026-05-13T15:48:46.507+0000] {processor.py:161} INFO - Started process (PID=34) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:48:46.510+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T15:48:46.512+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:48:46.511+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:48:46.545+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:48:46.589+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:48:46.589+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T15:48:46.607+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:48:46.606+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T15:48:46.637+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.135 seconds
+[2026-05-13T15:49:16.816+0000] {processor.py:161} INFO - Started process (PID=70) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:49:16.819+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T15:49:16.821+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:49:16.820+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:49:16.862+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:49:17.026+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:49:17.026+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T15:49:17.041+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:49:17.041+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T15:49:17.076+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.268 seconds
+[2026-05-13T15:49:47.151+0000] {processor.py:161} INFO - Started process (PID=71) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:49:47.153+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T15:49:47.155+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:49:47.155+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:49:47.189+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:49:47.244+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:49:47.244+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T15:49:47.263+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:49:47.263+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T15:49:47.298+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.154 seconds
+[2026-05-13T15:50:17.605+0000] {processor.py:161} INFO - Started process (PID=73) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:50:17.607+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T15:50:17.610+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:50:17.609+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:50:17.647+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:50:17.701+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:50:17.701+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T15:50:17.722+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:50:17.721+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T15:50:17.754+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.154 seconds
+[2026-05-13T15:50:47.895+0000] {processor.py:161} INFO - Started process (PID=74) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:50:47.897+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T15:50:47.900+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:50:47.899+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:50:47.940+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:50:48.016+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:50:48.015+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T15:50:48.040+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:50:48.040+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T15:50:48.076+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.197 seconds
+[2026-05-13T15:51:18.267+0000] {processor.py:161} INFO - Started process (PID=75) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:51:18.269+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T15:51:18.271+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:51:18.270+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:51:18.309+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:51:18.354+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:51:18.354+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T15:51:18.374+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:51:18.374+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T15:51:18.410+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.149 seconds
+[2026-05-13T15:51:48.602+0000] {processor.py:161} INFO - Started process (PID=76) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:51:48.604+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T15:51:48.607+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:51:48.606+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:51:48.651+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:51:48.720+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:51:48.720+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T15:51:48.737+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:51:48.736+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T15:51:48.771+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.175 seconds
+[2026-05-13T15:52:18.912+0000] {processor.py:161} INFO - Started process (PID=77) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:52:18.914+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T15:52:18.916+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:52:18.915+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:52:18.955+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:52:19.005+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:52:19.005+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T15:52:19.022+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:52:19.022+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T15:52:19.058+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.151 seconds
+[2026-05-13T15:52:49.365+0000] {processor.py:161} INFO - Started process (PID=78) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:52:49.374+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T15:52:49.386+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:52:49.383+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:52:49.494+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:52:49.616+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:52:49.615+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T15:52:49.677+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:52:49.676+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T15:52:49.715+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.372 seconds
+[2026-05-13T15:53:20.015+0000] {processor.py:161} INFO - Started process (PID=79) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:53:20.017+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T15:53:20.019+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:53:20.018+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:53:20.060+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:53:20.128+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:53:20.128+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T15:53:20.151+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:53:20.151+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T15:53:20.185+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.176 seconds
+[2026-05-13T15:53:50.244+0000] {processor.py:161} INFO - Started process (PID=80) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:53:50.246+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T15:53:50.248+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:53:50.248+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:53:50.285+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:53:50.337+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:53:50.336+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T15:53:50.354+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:53:50.353+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T15:53:50.386+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.148 seconds
+[2026-05-13T15:54:20.517+0000] {processor.py:161} INFO - Started process (PID=81) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:54:20.519+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T15:54:20.522+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:54:20.521+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:54:20.558+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:54:20.610+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:54:20.609+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T15:54:20.627+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:54:20.627+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T15:54:20.662+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.151 seconds
+[2026-05-13T15:54:50.919+0000] {processor.py:161} INFO - Started process (PID=82) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:54:50.920+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T15:54:50.923+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:54:50.922+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:54:50.959+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:54:51.009+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:54:51.009+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T15:54:51.028+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:54:51.028+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T15:54:51.065+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.151 seconds
+[2026-05-13T15:55:21.165+0000] {processor.py:161} INFO - Started process (PID=83) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:55:21.167+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T15:55:21.168+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:55:21.168+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:55:21.208+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:55:21.251+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:55:21.251+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T15:55:21.269+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:55:21.268+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T15:55:21.303+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.143 seconds
+[2026-05-13T15:55:51.577+0000] {processor.py:161} INFO - Started process (PID=84) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:55:51.578+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T15:55:51.581+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:55:51.580+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:55:51.621+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:55:51.704+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:55:51.703+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T15:55:51.725+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:55:51.725+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T15:55:51.763+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.193 seconds
+[2026-05-13T15:56:21.837+0000] {processor.py:161} INFO - Started process (PID=85) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:56:21.839+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T15:56:21.841+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:56:21.840+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:56:21.880+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:56:21.933+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:56:21.933+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T15:56:21.952+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:56:21.951+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T15:56:21.985+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.155 seconds
+[2026-05-13T15:56:52.269+0000] {processor.py:161} INFO - Started process (PID=86) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:56:52.271+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T15:56:52.273+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:56:52.273+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:56:52.305+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:56:52.356+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:56:52.356+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T15:56:52.377+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:56:52.377+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T15:56:52.410+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.146 seconds
+[2026-05-13T15:57:22.534+0000] {processor.py:161} INFO - Started process (PID=87) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:57:22.536+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T15:57:22.538+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:57:22.538+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:57:22.579+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:57:22.633+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:57:22.633+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T15:57:22.652+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:57:22.652+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T15:57:22.699+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.171 seconds
+[2026-05-13T15:57:52.942+0000] {processor.py:161} INFO - Started process (PID=88) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:57:52.944+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T15:57:52.947+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:57:52.946+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:57:52.986+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:57:53.035+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:57:53.035+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T15:57:53.054+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:57:53.054+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T15:57:53.086+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.148 seconds
+[2026-05-13T15:58:23.203+0000] {processor.py:161} INFO - Started process (PID=89) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:58:23.205+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T15:58:23.207+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:58:23.206+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:58:23.243+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:58:23.292+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:58:23.292+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T15:58:23.312+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:58:23.311+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T15:58:23.346+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.148 seconds
+[2026-05-13T15:58:53.640+0000] {processor.py:161} INFO - Started process (PID=90) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:58:53.642+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T15:58:53.643+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:58:53.643+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:58:53.680+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:58:53.726+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:58:53.725+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T15:58:53.746+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:58:53.746+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T15:58:53.781+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.146 seconds
+[2026-05-13T15:59:23.897+0000] {processor.py:161} INFO - Started process (PID=91) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:59:23.898+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T15:59:23.901+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:59:23.900+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:59:23.933+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:59:23.985+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:59:23.984+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T15:59:24.003+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:59:24.003+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T15:59:24.040+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.149 seconds
+[2026-05-13T15:59:54.144+0000] {processor.py:161} INFO - Started process (PID=92) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:59:54.146+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T15:59:54.149+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:59:54.148+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:59:54.184+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T15:59:54.236+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:59:54.236+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T15:59:54.254+0000] {logging_mixin.py:188} INFO - [2026-05-13T15:59:54.253+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T15:59:54.289+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.150 seconds
+[2026-05-13T16:00:24.541+0000] {processor.py:161} INFO - Started process (PID=93) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:00:24.543+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:00:24.545+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:00:24.544+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:00:24.579+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:00:24.638+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:00:24.637+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:00:24.655+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:00:24.655+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:00:24.692+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.155 seconds
+[2026-05-13T16:00:25.607+0000] {processor.py:161} INFO - Started process (PID=94) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:00:25.609+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:00:25.611+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:00:25.610+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:00:25.661+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:00:25.828+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:00:25.828+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:00:25.842+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:00:25.842+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:00:25.898+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.295 seconds
+[2026-05-13T16:00:55.994+0000] {processor.py:161} INFO - Started process (PID=95) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:00:55.997+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:00:55.999+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:00:55.998+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:00:56.037+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:00:56.091+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:00:56.091+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:00:56.110+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:00:56.109+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:00:56.146+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.157 seconds
+[2026-05-13T16:01:26.413+0000] {processor.py:161} INFO - Started process (PID=96) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:01:26.415+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:01:26.416+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:01:26.416+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:01:26.449+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:01:26.500+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:01:26.499+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:01:26.518+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:01:26.517+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:01:26.553+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.145 seconds
+[2026-05-13T16:01:56.684+0000] {processor.py:161} INFO - Started process (PID=97) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:01:56.686+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:01:56.689+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:01:56.688+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:01:56.728+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:01:56.778+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:01:56.777+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:01:56.799+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:01:56.799+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:01:56.851+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.174 seconds
+[2026-05-13T16:02:27.074+0000] {processor.py:161} INFO - Started process (PID=98) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:02:27.076+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:02:27.077+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:02:27.077+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:02:27.112+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:02:27.160+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:02:27.159+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:02:27.177+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:02:27.177+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:02:27.210+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.142 seconds
+[2026-05-13T16:02:57.375+0000] {processor.py:161} INFO - Started process (PID=99) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:02:57.378+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:02:57.379+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:02:57.379+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:02:57.415+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:02:57.475+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:02:57.474+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:02:57.492+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:02:57.492+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:02:57.528+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.159 seconds
+[2026-05-13T16:03:05.648+0000] {processor.py:161} INFO - Started process (PID=100) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:03:05.650+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:03:05.653+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:03:05.652+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:03:05.703+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:03:05.750+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:03:05.750+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:03:05.769+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:03:05.769+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:03:05.805+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.163 seconds
+[2026-05-13T16:03:11.723+0000] {processor.py:161} INFO - Started process (PID=101) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:03:11.740+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:03:11.743+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:03:11.742+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:03:11.806+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:03:11.857+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:03:11.857+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:03:11.877+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:03:11.876+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:03:11.921+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.205 seconds
+[2026-05-13T16:03:42.179+0000] {processor.py:161} INFO - Started process (PID=102) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:03:42.181+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:03:42.183+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:03:42.182+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:03:42.228+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:03:42.279+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:03:42.279+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:03:42.298+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:03:42.297+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:03:42.334+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.161 seconds
+[2026-05-13T16:04:12.497+0000] {processor.py:161} INFO - Started process (PID=103) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:04:12.499+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:04:12.502+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:04:12.501+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:04:12.536+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:04:12.585+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:04:12.584+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:04:12.603+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:04:12.602+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:04:12.637+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.147 seconds
+[2026-05-13T16:04:42.843+0000] {processor.py:161} INFO - Started process (PID=104) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:04:42.847+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:04:42.851+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:04:42.849+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:04:42.897+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:04:42.949+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:04:42.949+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:04:42.972+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:04:42.971+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:04:43.006+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.169 seconds
+[2026-05-13T16:05:13.150+0000] {processor.py:161} INFO - Started process (PID=150) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:05:13.153+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:05:13.155+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:05:13.154+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:05:13.190+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:05:13.237+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:05:13.237+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:05:13.257+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:05:13.256+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:05:13.300+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.154 seconds
+[2026-05-13T16:05:43.583+0000] {processor.py:161} INFO - Started process (PID=151) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:05:43.585+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:05:43.588+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:05:43.587+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:05:43.640+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:05:43.700+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:05:43.700+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:05:43.725+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:05:43.725+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:05:43.815+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.241 seconds
+[2026-05-13T16:06:14.104+0000] {processor.py:161} INFO - Started process (PID=152) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:06:14.107+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:06:14.112+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:06:14.110+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:06:14.167+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:06:14.243+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:06:14.242+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:06:14.276+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:06:14.276+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:06:14.329+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.233 seconds
+[2026-05-13T16:06:44.595+0000] {processor.py:161} INFO - Started process (PID=153) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:06:44.598+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:06:44.600+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:06:44.600+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:06:44.640+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:06:44.699+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:06:44.698+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:06:44.722+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:06:44.721+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:06:44.757+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.168 seconds
+[2026-05-13T16:07:14.824+0000] {processor.py:161} INFO - Started process (PID=154) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:07:14.826+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:07:14.829+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:07:14.828+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:07:14.876+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:07:14.927+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:07:14.927+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:07:14.946+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:07:14.946+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:07:14.985+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.165 seconds
+[2026-05-13T16:07:45.304+0000] {processor.py:161} INFO - Started process (PID=185) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:07:45.306+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:07:45.308+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:07:45.307+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:07:45.340+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:07:45.384+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:07:45.383+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:07:45.401+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:07:45.401+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:07:45.437+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.137 seconds
+[2026-05-13T16:08:15.578+0000] {processor.py:161} INFO - Started process (PID=214) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:08:15.581+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:08:15.583+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:08:15.582+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:08:15.620+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:08:15.666+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:08:15.666+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:08:15.685+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:08:15.684+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:08:15.718+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.145 seconds
+[2026-05-13T16:08:46.022+0000] {processor.py:161} INFO - Started process (PID=215) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:08:46.024+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:08:46.026+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:08:46.026+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:08:46.060+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:08:46.110+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:08:46.109+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:08:46.129+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:08:46.129+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:08:46.174+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.156 seconds
+[2026-05-13T16:09:16.302+0000] {processor.py:161} INFO - Started process (PID=216) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:09:16.304+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:09:16.306+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:09:16.306+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:09:16.344+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:09:16.392+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:09:16.392+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:09:16.411+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:09:16.411+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:09:16.447+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.151 seconds
+[2026-05-13T16:09:46.734+0000] {processor.py:161} INFO - Started process (PID=217) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:09:46.736+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:09:46.738+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:09:46.738+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:09:46.774+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:09:46.815+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:09:46.815+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:09:46.835+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:09:46.835+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:09:46.868+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.139 seconds
+[2026-05-13T16:10:16.999+0000] {processor.py:161} INFO - Started process (PID=218) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:10:17.001+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:10:17.003+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:10:17.002+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:10:17.034+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:10:17.078+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:10:17.077+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:10:17.097+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:10:17.097+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:10:17.143+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.149 seconds
+[2026-05-13T16:10:47.387+0000] {processor.py:161} INFO - Started process (PID=219) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:10:47.389+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:10:47.393+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:10:47.392+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:10:47.430+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:10:47.477+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:10:47.476+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:10:47.499+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:10:47.499+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:10:47.546+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.164 seconds
+[2026-05-13T16:11:17.671+0000] {processor.py:161} INFO - Started process (PID=220) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:11:17.673+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:11:17.675+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:11:17.675+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:11:17.710+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:11:17.759+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:11:17.758+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:11:17.783+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:11:17.783+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:11:17.817+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.151 seconds
+[2026-05-13T16:11:48.050+0000] {processor.py:161} INFO - Started process (PID=221) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:11:48.052+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:11:48.055+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:11:48.054+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:11:48.088+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:11:48.130+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:11:48.130+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:11:48.150+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:11:48.150+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:11:48.184+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.137 seconds
+[2026-05-13T16:12:18.325+0000] {processor.py:161} INFO - Started process (PID=222) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:12:18.328+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:12:18.330+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:12:18.329+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:12:18.381+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:12:18.426+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:12:18.426+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:12:18.444+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:12:18.443+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:12:18.477+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.156 seconds
+[2026-05-13T16:12:48.690+0000] {processor.py:161} INFO - Started process (PID=223) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:12:48.692+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:12:48.694+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:12:48.694+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:12:48.730+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:12:48.773+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:12:48.773+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:12:48.790+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:12:48.790+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:12:48.823+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.137 seconds
+[2026-05-13T16:13:18.997+0000] {processor.py:161} INFO - Started process (PID=224) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:13:19.000+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:13:19.002+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:13:19.001+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:13:19.036+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:13:19.084+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:13:19.084+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:13:19.104+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:13:19.104+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:13:19.138+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.146 seconds
+[2026-05-13T16:13:49.374+0000] {processor.py:161} INFO - Started process (PID=225) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:13:49.375+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:13:49.378+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:13:49.377+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:13:49.412+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:13:49.462+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:13:49.462+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:13:49.478+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:13:49.478+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:13:49.517+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.147 seconds
+[2026-05-13T16:14:19.649+0000] {processor.py:161} INFO - Started process (PID=226) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:14:19.651+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:14:19.653+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:14:19.653+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:14:19.692+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:14:19.747+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:14:19.747+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:14:19.767+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:14:19.767+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:14:19.802+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.158 seconds
+[2026-05-13T16:14:50.024+0000] {processor.py:161} INFO - Started process (PID=227) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:14:50.026+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:14:50.028+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:14:50.027+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:14:50.063+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:14:50.106+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:14:50.105+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:14:50.123+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:14:50.123+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:14:50.163+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.144 seconds
+[2026-05-13T16:15:20.335+0000] {processor.py:161} INFO - Started process (PID=228) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:15:20.337+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:15:20.340+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:15:20.339+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:15:20.391+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:15:20.480+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:15:20.479+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:15:20.507+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:15:20.506+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:15:20.541+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.215 seconds
+[2026-05-13T16:15:50.696+0000] {processor.py:161} INFO - Started process (PID=229) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:15:50.698+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:15:50.701+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:15:50.700+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:15:50.734+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:15:50.785+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:15:50.784+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:15:50.802+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:15:50.801+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:15:50.838+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.147 seconds
+[2026-05-13T16:16:21.051+0000] {processor.py:161} INFO - Started process (PID=230) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:16:21.055+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:16:21.057+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:16:21.057+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:16:21.107+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:16:21.183+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:16:21.182+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:16:21.207+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:16:21.207+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:16:21.242+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.201 seconds
+[2026-05-13T16:16:51.339+0000] {processor.py:161} INFO - Started process (PID=231) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:16:51.342+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:16:51.345+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:16:51.344+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:16:51.397+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:16:51.448+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:16:51.447+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:16:51.466+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:16:51.465+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:16:51.499+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.167 seconds
+[2026-05-13T16:17:21.770+0000] {processor.py:161} INFO - Started process (PID=232) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:17:21.773+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:17:21.774+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:17:21.774+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:17:21.811+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:17:21.858+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:17:21.857+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:17:21.875+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:17:21.875+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:17:21.920+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.156 seconds
+[2026-05-13T16:17:52.040+0000] {processor.py:161} INFO - Started process (PID=262) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:17:52.042+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:17:52.044+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:17:52.044+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:17:52.089+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:17:52.160+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:17:52.159+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:17:52.183+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:17:52.183+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:17:52.227+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.193 seconds
+[2026-05-13T16:18:22.444+0000] {processor.py:161} INFO - Started process (PID=263) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:18:22.447+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:18:22.449+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:18:22.449+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:18:22.487+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:18:22.536+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:18:22.535+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:18:22.553+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:18:22.553+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:18:22.590+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.151 seconds
+[2026-05-13T16:18:52.846+0000] {processor.py:161} INFO - Started process (PID=264) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:18:52.849+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:18:52.851+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:18:52.850+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:18:52.886+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:18:52.934+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:18:52.933+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:18:52.950+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:18:52.950+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:18:52.985+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.143 seconds
+[2026-05-13T16:19:23.096+0000] {processor.py:161} INFO - Started process (PID=265) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:19:23.099+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:19:23.102+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:19:23.100+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:19:23.135+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:19:23.189+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:19:23.188+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:19:23.210+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:19:23.210+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:19:23.244+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.153 seconds
+[2026-05-13T16:19:53.492+0000] {processor.py:161} INFO - Started process (PID=266) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:19:53.495+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:19:53.497+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:19:53.496+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:19:53.534+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:19:53.581+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:19:53.580+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:19:53.599+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:19:53.599+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:19:53.634+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.149 seconds
+[2026-05-13T16:20:23.750+0000] {processor.py:161} INFO - Started process (PID=267) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:20:23.753+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:20:23.755+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:20:23.754+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:20:23.793+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:20:23.842+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:20:23.842+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:20:23.860+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:20:23.859+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:20:23.895+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.152 seconds
+[2026-05-13T16:20:24.919+0000] {processor.py:161} INFO - Started process (PID=268) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:20:24.921+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:20:24.924+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:20:24.923+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:20:24.969+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:20:25.150+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:20:25.150+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:20:25.165+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:20:25.165+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:20:25.212+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.302 seconds
+[2026-05-13T16:20:55.509+0000] {processor.py:161} INFO - Started process (PID=269) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:20:55.512+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:20:55.515+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:20:55.515+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:20:55.555+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:20:55.613+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:20:55.612+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:20:55.632+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:20:55.632+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:20:55.668+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.169 seconds
+[2026-05-13T16:21:25.785+0000] {processor.py:161} INFO - Started process (PID=357) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:21:25.787+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:21:25.790+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:21:25.789+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:21:25.834+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:21:25.884+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:21:25.883+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:21:25.906+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:21:25.906+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:21:25.939+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.160 seconds
+[2026-05-13T16:21:56.182+0000] {processor.py:161} INFO - Started process (PID=358) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:21:56.185+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:21:56.188+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:21:56.187+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:21:56.229+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:21:56.274+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:21:56.273+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:21:56.293+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:21:56.292+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:21:56.330+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.153 seconds
+[2026-05-13T16:22:26.453+0000] {processor.py:161} INFO - Started process (PID=359) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:22:26.455+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:22:26.457+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:22:26.457+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:22:26.492+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:22:26.537+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:22:26.537+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:22:26.559+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:22:26.558+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:22:26.608+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.160 seconds
+[2026-05-13T16:22:56.828+0000] {processor.py:161} INFO - Started process (PID=360) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:22:56.830+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:22:56.832+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:22:56.831+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:22:56.864+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:22:56.908+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:22:56.908+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:22:56.924+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:22:56.924+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:22:56.957+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.133 seconds
+[2026-05-13T16:23:27.111+0000] {processor.py:161} INFO - Started process (PID=361) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:23:27.113+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:23:27.115+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:23:27.114+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:23:27.148+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:23:27.197+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:23:27.197+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:23:27.214+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:23:27.213+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:23:27.246+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.140 seconds
+[2026-05-13T16:23:57.505+0000] {processor.py:161} INFO - Started process (PID=362) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:23:57.507+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:23:57.509+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:23:57.508+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:23:57.548+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:23:57.596+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:23:57.596+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:23:57.613+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:23:57.612+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:23:57.646+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.145 seconds
+[2026-05-13T16:24:27.769+0000] {processor.py:161} INFO - Started process (PID=363) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:24:27.771+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:24:27.773+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:24:27.772+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:24:27.804+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:24:27.844+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:24:27.844+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:24:27.861+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:24:27.861+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:24:27.896+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.132 seconds
+[2026-05-13T16:24:58.154+0000] {processor.py:161} INFO - Started process (PID=364) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:24:58.156+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:24:58.158+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:24:58.157+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:24:58.191+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:24:58.237+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:24:58.237+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:24:58.259+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:24:58.259+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:24:58.291+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.141 seconds
+[2026-05-13T16:25:28.409+0000] {processor.py:161} INFO - Started process (PID=365) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:25:28.411+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:25:28.413+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:25:28.413+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:25:28.451+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:25:28.506+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:25:28.505+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:25:28.532+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:25:28.531+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:25:28.572+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.167 seconds
+[2026-05-13T16:25:58.770+0000] {processor.py:161} INFO - Started process (PID=366) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:25:58.772+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:25:58.774+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:25:58.773+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:25:58.809+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:25:58.853+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:25:58.852+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:25:58.870+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:25:58.870+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:25:58.903+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.138 seconds
+[2026-05-13T16:26:29.068+0000] {processor.py:161} INFO - Started process (PID=367) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:26:29.070+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:26:29.071+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:26:29.071+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:26:29.104+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:26:29.147+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:26:29.147+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:26:29.165+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:26:29.165+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:26:29.213+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.151 seconds
+[2026-05-13T16:26:59.412+0000] {processor.py:161} INFO - Started process (PID=368) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:26:59.416+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:26:59.418+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:26:59.418+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:26:59.466+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:26:59.523+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:26:59.523+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:26:59.576+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:26:59.575+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:26:59.657+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.252 seconds
+[2026-05-13T16:27:29.977+0000] {processor.py:161} INFO - Started process (PID=369) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:27:29.979+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:27:29.981+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:27:29.981+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:27:30.012+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:27:30.060+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:27:30.060+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:27:30.078+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:27:30.078+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:27:30.110+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.139 seconds
+[2026-05-13T16:28:00.226+0000] {processor.py:161} INFO - Started process (PID=370) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:28:00.228+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:28:00.229+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:28:00.229+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:28:00.262+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:28:00.304+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:28:00.304+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:28:00.322+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:28:00.321+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:28:00.355+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.134 seconds
+[2026-05-13T16:28:30.634+0000] {processor.py:161} INFO - Started process (PID=371) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:28:30.636+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:28:30.638+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:28:30.638+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:28:30.672+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:28:30.716+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:28:30.716+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:28:30.742+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:28:30.742+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:28:30.779+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.149 seconds
+[2026-05-13T16:29:00.978+0000] {processor.py:161} INFO - Started process (PID=372) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:29:00.980+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:29:00.982+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:29:00.982+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:29:01.025+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:29:01.064+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:29:01.063+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:29:01.080+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:29:01.080+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:29:01.112+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.141 seconds
+[2026-05-13T16:29:31.304+0000] {processor.py:161} INFO - Started process (PID=373) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:29:31.306+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:29:31.308+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:29:31.308+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:29:31.340+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:29:31.380+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:29:31.380+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:29:31.399+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:29:31.398+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:29:31.430+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.132 seconds
+[2026-05-13T16:30:01.614+0000] {processor.py:161} INFO - Started process (PID=374) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:30:01.615+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:30:01.617+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:30:01.617+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:30:01.653+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:30:01.694+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:30:01.694+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:30:01.714+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:30:01.714+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:30:01.761+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.152 seconds
+[2026-05-13T16:30:31.940+0000] {processor.py:161} INFO - Started process (PID=375) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:30:31.942+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:30:31.944+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:30:31.944+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:30:31.978+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:30:32.020+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:30:32.020+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:30:32.037+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:30:32.036+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:30:32.077+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.143 seconds
+[2026-05-13T16:31:02.252+0000] {processor.py:161} INFO - Started process (PID=376) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:31:02.254+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:31:02.257+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:31:02.256+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:31:02.286+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:31:02.327+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:31:02.327+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:31:02.343+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:31:02.343+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:31:02.390+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.143 seconds
+[2026-05-13T16:31:32.572+0000] {processor.py:161} INFO - Started process (PID=377) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:31:32.574+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:31:32.576+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:31:32.576+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:31:32.611+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:31:32.654+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:31:32.654+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:31:32.673+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:31:32.673+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:31:32.720+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.152 seconds
+[2026-05-13T16:32:02.899+0000] {processor.py:161} INFO - Started process (PID=378) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:32:02.902+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:32:02.904+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:32:02.903+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:32:02.937+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:32:02.982+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:32:02.981+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:32:02.999+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:32:02.999+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:32:03.033+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.139 seconds
+[2026-05-13T16:32:33.245+0000] {processor.py:161} INFO - Started process (PID=379) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:32:33.247+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:32:33.249+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:32:33.249+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:32:33.283+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:32:33.324+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:32:33.324+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:32:33.340+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:32:33.340+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:32:33.386+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.147 seconds
+[2026-05-13T16:33:03.519+0000] {processor.py:161} INFO - Started process (PID=380) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:33:03.522+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:33:03.524+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:33:03.524+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:33:03.563+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:33:03.613+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:33:03.613+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:33:03.629+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:33:03.629+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:33:03.663+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.150 seconds
+[2026-05-13T16:33:33.893+0000] {processor.py:161} INFO - Started process (PID=381) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:33:33.895+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:33:33.896+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:33:33.896+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:33:33.926+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:33:33.973+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:33:33.972+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:33:33.991+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:33:33.991+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:33:34.030+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.141 seconds
+[2026-05-13T16:34:04.200+0000] {processor.py:161} INFO - Started process (PID=382) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:34:04.202+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:34:04.205+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:34:04.204+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:34:04.233+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:34:04.276+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:34:04.276+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:34:04.297+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:34:04.296+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:34:04.328+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.133 seconds
+[2026-05-13T16:34:34.543+0000] {processor.py:161} INFO - Started process (PID=383) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:34:34.545+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:34:34.548+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:34:34.547+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:34:34.581+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:34:34.621+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:34:34.621+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:34:34.638+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:34:34.638+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:34:34.673+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.136 seconds
+[2026-05-13T16:35:04.831+0000] {processor.py:161} INFO - Started process (PID=384) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:35:04.834+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:35:04.836+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:35:04.836+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:35:04.870+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:35:04.926+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:35:04.926+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:35:04.940+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:35:04.939+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:35:04.972+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.146 seconds
+[2026-05-13T16:35:35.225+0000] {processor.py:161} INFO - Started process (PID=385) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:35:35.226+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:35:35.229+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:35:35.228+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:35:35.261+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:35:35.304+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:35:35.304+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:35:35.321+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:35:35.320+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:35:35.357+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.136 seconds
+[2026-05-13T16:36:05.493+0000] {processor.py:161} INFO - Started process (PID=386) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:36:05.496+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:36:05.499+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:36:05.498+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:36:05.543+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:36:05.586+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:36:05.585+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:36:05.602+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:36:05.601+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:36:05.636+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.148 seconds
+[2026-05-13T16:36:35.862+0000] {processor.py:161} INFO - Started process (PID=387) to work on /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:36:35.865+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/job_etl_dag.py for tasks to queue
+[2026-05-13T16:36:35.866+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:36:35.866+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:36:35.898+0000] {processor.py:840} INFO - DAG(s) 'job_market_etl' retrieved from /opt/airflow/dags/job_etl_dag.py
+[2026-05-13T16:36:35.953+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:36:35.952+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-05-13T16:36:35.969+0000] {logging_mixin.py:188} INFO - [2026-05-13T16:36:35.969+0000] {dag.py:3823} INFO - Setting next_dagrun for job_market_etl to None, run_after=None
+[2026-05-13T16:36:35.999+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/job_etl_dag.py took 0.142 seconds

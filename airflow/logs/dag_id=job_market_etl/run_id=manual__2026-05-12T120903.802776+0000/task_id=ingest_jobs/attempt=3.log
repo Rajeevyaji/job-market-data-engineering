@@ -1,0 +1,124 @@
+[2026-05-12T12:53:20.550+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: job_market_etl.ingest_jobs manual__2026-05-12T12:09:03.802776+00:00 [queued]>
+[2026-05-12T12:53:20.563+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: job_market_etl.ingest_jobs manual__2026-05-12T12:09:03.802776+00:00 [queued]>
+[2026-05-12T12:53:20.564+0000] {taskinstance.py:2170} INFO - Starting attempt 3 of 3
+[2026-05-12T12:53:20.583+0000] {taskinstance.py:2191} INFO - Executing <Task(BashOperator): ingest_jobs> on 2026-05-12 12:09:03.802776+00:00
+[2026-05-12T12:53:20.591+0000] {standard_task_runner.py:60} INFO - Started process 524 to run task
+[2026-05-12T12:53:20.596+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'job_market_etl', 'ingest_jobs', 'manual__2026-05-12T12:09:03.802776+00:00', '--job-id', '37', '--raw', '--subdir', 'DAGS_FOLDER/job_etl_dag.py', '--cfg-path', '/tmp/tmpism3or0q']
+[2026-05-12T12:53:20.599+0000] {standard_task_runner.py:88} INFO - Job 37: Subtask ingest_jobs
+[2026-05-12T12:53:20.704+0000] {task_command.py:423} INFO - Running <TaskInstance: job_market_etl.ingest_jobs manual__2026-05-12T12:09:03.802776+00:00 [running]> on host 4d82dcfb06ce
+[2026-05-12T12:53:20.817+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Rajeev' AIRFLOW_CTX_DAG_ID='job_market_etl' AIRFLOW_CTX_TASK_ID='ingest_jobs' AIRFLOW_CTX_EXECUTION_DATE='2026-05-12T12:09:03.802776+00:00' AIRFLOW_CTX_TRY_NUMBER='3' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-05-12T12:09:03.802776+00:00'
+[2026-05-12T12:53:20.819+0000] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2026-05-12T12:53:20.821+0000] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'cd /opt/***/project && python pipelines/ingestion/load_real_jobs.py']
+[2026-05-12T12:53:20.839+0000] {subprocess.py:86} INFO - Output:
+[2026-05-12T12:53:21.940+0000] {subprocess.py:93} INFO - Traceback (most recent call last):
+[2026-05-12T12:53:21.941+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 3371, in _wrap_pool_connect
+[2026-05-12T12:53:21.942+0000] {subprocess.py:93} INFO -     return fn()
+[2026-05-12T12:53:21.943+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/pool/base.py", line 327, in connect
+[2026-05-12T12:53:21.944+0000] {subprocess.py:93} INFO -     return _ConnectionFairy._checkout(self)
+[2026-05-12T12:53:21.945+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/pool/base.py", line 894, in _checkout
+[2026-05-12T12:53:21.946+0000] {subprocess.py:93} INFO -     fairy = _ConnectionRecord.checkout(pool)
+[2026-05-12T12:53:21.947+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/pool/base.py", line 493, in checkout
+[2026-05-12T12:53:21.948+0000] {subprocess.py:93} INFO -     rec = pool._do_get()
+[2026-05-12T12:53:21.949+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/pool/impl.py", line 146, in _do_get
+[2026-05-12T12:53:21.949+0000] {subprocess.py:93} INFO -     self._dec_overflow()
+[2026-05-12T12:53:21.950+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+[2026-05-12T12:53:21.951+0000] {subprocess.py:93} INFO -     compat.raise_(
+[2026-05-12T12:53:21.951+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+[2026-05-12T12:53:21.952+0000] {subprocess.py:93} INFO -     raise exception
+[2026-05-12T12:53:21.952+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+[2026-05-12T12:53:21.953+0000] {subprocess.py:93} INFO -     return self._create_connection()
+[2026-05-12T12:53:21.954+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/pool/base.py", line 273, in _create_connection
+[2026-05-12T12:53:21.955+0000] {subprocess.py:93} INFO -     return _ConnectionRecord(self)
+[2026-05-12T12:53:21.956+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/pool/base.py", line 388, in __init__
+[2026-05-12T12:53:21.957+0000] {subprocess.py:93} INFO -     self.__connect()
+[2026-05-12T12:53:21.958+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/pool/base.py", line 691, in __connect
+[2026-05-12T12:53:21.959+0000] {subprocess.py:93} INFO -     pool.logger.debug("Error on connect(): %s", e)
+[2026-05-12T12:53:21.959+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+[2026-05-12T12:53:21.960+0000] {subprocess.py:93} INFO -     compat.raise_(
+[2026-05-12T12:53:21.961+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+[2026-05-12T12:53:21.961+0000] {subprocess.py:93} INFO -     raise exception
+[2026-05-12T12:53:21.962+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/pool/base.py", line 686, in __connect
+[2026-05-12T12:53:21.963+0000] {subprocess.py:93} INFO -     self.dbapi_connection = connection = pool._invoke_creator(self)
+[2026-05-12T12:53:21.963+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/engine/create.py", line 574, in connect
+[2026-05-12T12:53:21.964+0000] {subprocess.py:93} INFO -     return dialect.connect(*cargs, **cparams)
+[2026-05-12T12:53:21.965+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/engine/default.py", line 598, in connect
+[2026-05-12T12:53:21.965+0000] {subprocess.py:93} INFO -     return self.dbapi.connect(*cargs, **cparams)
+[2026-05-12T12:53:21.966+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/psycopg2/__init__.py", line 122, in connect
+[2026-05-12T12:53:21.967+0000] {subprocess.py:93} INFO -     conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+[2026-05-12T12:53:21.968+0000] {subprocess.py:93} INFO - psycopg2.OperationalError: connection to server at "***_postgres" (172.18.0.3), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+[2026-05-12T12:53:21.968+0000] {subprocess.py:93} INFO - 
+[2026-05-12T12:53:21.969+0000] {subprocess.py:93} INFO - 
+[2026-05-12T12:53:21.971+0000] {subprocess.py:93} INFO - The above exception was the direct cause of the following exception:
+[2026-05-12T12:53:21.972+0000] {subprocess.py:93} INFO - 
+[2026-05-12T12:53:21.973+0000] {subprocess.py:93} INFO - Traceback (most recent call last):
+[2026-05-12T12:53:21.974+0000] {subprocess.py:93} INFO -   File "pipelines/ingestion/load_real_jobs.py", line 34, in <module>
+[2026-05-12T12:53:21.975+0000] {subprocess.py:93} INFO -     df.to_sql(
+[2026-05-12T12:53:21.976+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/pandas/core/generic.py", line 2878, in to_sql
+[2026-05-12T12:53:21.976+0000] {subprocess.py:93} INFO -     return sql.to_sql(
+[2026-05-12T12:53:21.976+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/pandas/io/sql.py", line 768, in to_sql
+[2026-05-12T12:53:21.977+0000] {subprocess.py:93} INFO -     with pandasSQL_builder(con, schema=schema, need_transaction=True) as pandas_sql:
+[2026-05-12T12:53:21.978+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/pandas/io/sql.py", line 832, in pandasSQL_builder
+[2026-05-12T12:53:21.978+0000] {subprocess.py:93} INFO -     return SQLDatabase(con, schema, need_transaction)
+[2026-05-12T12:53:21.979+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/pandas/io/sql.py", line 1539, in __init__
+[2026-05-12T12:53:21.979+0000] {subprocess.py:93} INFO -     con = self.exit_stack.enter_context(con.connect())
+[2026-05-12T12:53:21.980+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 3325, in connect
+[2026-05-12T12:53:21.981+0000] {subprocess.py:93} INFO -     return self._connection_cls(self, close_with_result=close_with_result)
+[2026-05-12T12:53:21.982+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 96, in __init__
+[2026-05-12T12:53:21.983+0000] {subprocess.py:93} INFO -     else engine.raw_connection()
+[2026-05-12T12:53:21.983+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 3404, in raw_connection
+[2026-05-12T12:53:21.984+0000] {subprocess.py:93} INFO -     return self._wrap_pool_connect(self.pool.connect, _connection)
+[2026-05-12T12:53:21.985+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 3374, in _wrap_pool_connect
+[2026-05-12T12:53:21.986+0000] {subprocess.py:93} INFO -     Connection._handle_dbapi_exception_noconnection(
+[2026-05-12T12:53:21.987+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 2208, in _handle_dbapi_exception_noconnection
+[2026-05-12T12:53:21.988+0000] {subprocess.py:93} INFO -     util.raise_(
+[2026-05-12T12:53:21.989+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+[2026-05-12T12:53:21.991+0000] {subprocess.py:93} INFO -     raise exception
+[2026-05-12T12:53:21.991+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 3371, in _wrap_pool_connect
+[2026-05-12T12:53:21.992+0000] {subprocess.py:93} INFO -     return fn()
+[2026-05-12T12:53:21.992+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/pool/base.py", line 327, in connect
+[2026-05-12T12:53:21.993+0000] {subprocess.py:93} INFO -     return _ConnectionFairy._checkout(self)
+[2026-05-12T12:53:21.994+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/pool/base.py", line 894, in _checkout
+[2026-05-12T12:53:21.995+0000] {subprocess.py:93} INFO -     fairy = _ConnectionRecord.checkout(pool)
+[2026-05-12T12:53:21.995+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/pool/base.py", line 493, in checkout
+[2026-05-12T12:53:21.996+0000] {subprocess.py:93} INFO -     rec = pool._do_get()
+[2026-05-12T12:53:21.997+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/pool/impl.py", line 146, in _do_get
+[2026-05-12T12:53:21.998+0000] {subprocess.py:93} INFO -     self._dec_overflow()
+[2026-05-12T12:53:21.998+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+[2026-05-12T12:53:21.999+0000] {subprocess.py:93} INFO -     compat.raise_(
+[2026-05-12T12:53:22.000+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+[2026-05-12T12:53:22.001+0000] {subprocess.py:93} INFO -     raise exception
+[2026-05-12T12:53:22.001+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+[2026-05-12T12:53:22.002+0000] {subprocess.py:93} INFO -     return self._create_connection()
+[2026-05-12T12:53:22.003+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/pool/base.py", line 273, in _create_connection
+[2026-05-12T12:53:22.004+0000] {subprocess.py:93} INFO -     return _ConnectionRecord(self)
+[2026-05-12T12:53:22.005+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/pool/base.py", line 388, in __init__
+[2026-05-12T12:53:22.006+0000] {subprocess.py:93} INFO -     self.__connect()
+[2026-05-12T12:53:22.007+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/pool/base.py", line 691, in __connect
+[2026-05-12T12:53:22.008+0000] {subprocess.py:93} INFO -     pool.logger.debug("Error on connect(): %s", e)
+[2026-05-12T12:53:22.009+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+[2026-05-12T12:53:22.009+0000] {subprocess.py:93} INFO -     compat.raise_(
+[2026-05-12T12:53:22.010+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+[2026-05-12T12:53:22.011+0000] {subprocess.py:93} INFO -     raise exception
+[2026-05-12T12:53:22.011+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/pool/base.py", line 686, in __connect
+[2026-05-12T12:53:22.012+0000] {subprocess.py:93} INFO -     self.dbapi_connection = connection = pool._invoke_creator(self)
+[2026-05-12T12:53:22.012+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/engine/create.py", line 574, in connect
+[2026-05-12T12:53:22.013+0000] {subprocess.py:93} INFO -     return dialect.connect(*cargs, **cparams)
+[2026-05-12T12:53:22.013+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/sqlalchemy/engine/default.py", line 598, in connect
+[2026-05-12T12:53:22.014+0000] {subprocess.py:93} INFO -     return self.dbapi.connect(*cargs, **cparams)
+[2026-05-12T12:53:22.015+0000] {subprocess.py:93} INFO -   File "/home/***/.local/lib/python3.8/site-packages/psycopg2/__init__.py", line 122, in connect
+[2026-05-12T12:53:22.016+0000] {subprocess.py:93} INFO -     conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+[2026-05-12T12:53:22.017+0000] {subprocess.py:93} INFO - sqlalchemy.exc.OperationalError: (psycopg2.OperationalError) connection to server at "***_postgres" (172.18.0.3), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+[2026-05-12T12:53:22.018+0000] {subprocess.py:93} INFO - 
+[2026-05-12T12:53:22.018+0000] {subprocess.py:93} INFO - (Background on this error at: https://sqlalche.me/e/14/e3q8)
+[2026-05-12T12:53:22.068+0000] {subprocess.py:97} INFO - Command exited with return code 1
+[2026-05-12T12:53:22.089+0000] {taskinstance.py:2698} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 433, in _execute_task
+    result = execute_callable(context=context, **execute_callable_kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/bash.py", line 212, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 1.
+[2026-05-12T12:53:22.093+0000] {taskinstance.py:1138} INFO - Marking task as FAILED. dag_id=job_market_etl, task_id=ingest_jobs, execution_date=20260512T120903, start_date=20260512T125320, end_date=20260512T125322
+[2026-05-12T12:53:22.114+0000] {standard_task_runner.py:107} ERROR - Failed to execute job 37 for task ingest_jobs (Bash command failed. The command returned a non-zero exit code 1.; 524)
+[2026-05-12T12:53:22.146+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 1
+[2026-05-12T12:53:22.182+0000] {taskinstance.py:3280} INFO - 0 downstream tasks scheduled from follow-on schedule check

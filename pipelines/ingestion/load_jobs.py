@@ -35,9 +35,8 @@ df = pd.DataFrame(data)
 
 # PostgreSQL connection
 engine = create_engine(
-    "postgresql://postgres:password@localhost:5432/jobs_db"
+    "postgresql://postgres:password@airflow_postgres:5432/jobs_db"
 )
-
 # Load into PostgreSQL
 df.to_sql(
     "job_postings",
